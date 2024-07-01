@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **3rd year project**
+- 🔭 I’m currently working on **4th year project**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Node.js, Database**
 
 - 💬 Ask me about **Anything**
 
