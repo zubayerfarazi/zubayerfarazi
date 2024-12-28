@@ -25,9 +25,9 @@
 
 <h3 align="left">👨‍💻 Professional Experience</h3>
 
-- **Junior Developer** at [Company Name, if applicable]  
+- **Junior Developer** at Sheam Aviation Ltd. 
   - Built robust front-end components using React.js.
-  - Integrated APIs and worked with MongoDB for database management.
+  - Integrated APIs and working with MongoDB for database management.
 
 ---
 
